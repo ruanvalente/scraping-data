@@ -1,0 +1,384 @@
+title: Devil May Cry 3 - Special Edition
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/5be9bc7d2a1c6e697f85c984/banners/vcyqqddk93nmtqhxjjm2.jpg
+platform: Steam
+price: R$ 9,99
+price_discount: -75%
+date_promotion: 2024-03-22 18:45:41
+---------------------
+title: Resident Evil 5 - Gold Edition
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/557dbbd969702d0a9cc4bb00/banners/ugito82nhkpqrl43ihvb.jpg
+platform: Steam
+price: R$ 21,00
+price_discount: -75%
+date_promotion: 2024-03-22 18:45:41
+---------------------
+title: Monster Hunter World: Iceborne Master Edition Deluxe
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/5e1e0177e8d4f2572c116fdd/banners/n1kmkhqx1avsrzkqgard.jpg
+platform: Steam
+price: R$ 75,99
+price_discount: -68%
+date_promotion: 2024-03-22 18:45:41
+---------------------
+title: Devil May Cry 4: Edição Especial
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/5589cfec69702d6c1800001b/banners/yvxzkmqw2xhiqva3qgdh.jpg
+platform: Steam
+price: R$ 25,19
+price_discount: -70%
+date_promotion: 2024-03-22 18:45:41
+---------------------
+title: RESIDENT EVIL 7 biohazard Gold Edition
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/5835a8157b323f4a170001a1/banners/lqxhiwhfgzuebdighidt.jpg
+platform: Steam
+price: R$ 47,33
+price_discount: -64%
+date_promotion: 2024-03-22 18:45:41
+---------------------
+title: Marvel vs. Capcom: Infinite Deluxe
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/5be9c4a088102416852d9744/banners/yfbggwgfwjcwkru40ozy.jpg
+platform: Steam
+price: R$ 25,99
+price_discount: -80%
+date_promotion: 2024-03-22 18:45:41
+---------------------
+title: Street Fighter V - Champion Edition
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/564c95ef69702d648a00011d/banners/jpoaxzjljzw1wiqot603.jpg
+platform: Steam
+price: R$ 42,00
+price_discount: -50%
+date_promotion: 2024-03-22 18:45:41
+---------------------
+title: Street Fighter - 30th Anniversary
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/5be9c86588102416852d9754/banners/jpzocfbbawtgskvuyoni.jpg
+platform: Steam
+price: R$ 32,96
+price_discount: -67%
+date_promotion: 2024-03-22 18:45:41
+---------------------
+title: Mega Man Legacy Collection
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/563cb22569702d0c6b004fc9/banners/xeyqgarxmeypf0hr2hsp.jpg
+platform: Steam
+price: R$ 19,96
+price_discount: -60%
+date_promotion: 2024-03-22 18:45:41
+---------------------
+title: Monster Hunter Rise - Deluxe Edition
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/615c9e25c2dcdc00205c463d/banners/rgygy34clapk8w98bbxf.jpg
+platform: Steam
+price: R$ 74,02
+price_discount: -56%
+date_promotion: 2024-03-22 18:45:41
+---------------------
+title: DEADRISING 4 - Frank's Big Package
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/5c0afb7c88102447f1fd94d6/banners/pfejsrwm8oicahgmcgrl.jpg
+platform: Steam
+price: R$ 35,11
+price_discount: -60%
+date_promotion: 2024-03-22 18:45:41
+---------------------
+title: Capcom Fighting Collection
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/62c6fd26d99e6d00155d2cfc/banners/hhpkru5ix2u8sh32vsgp.jpg
+platform: Steam
+price: R$ 84,95
+price_discount: -50%
+date_promotion: 2024-03-22 18:45:41
+---------------------
+title: Monster Hunter Stories 2: Wings of Ruin Deluxe Edition
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/60a6b62ba3f8b16f3a36f492/banners/djhkkcxne3rqbm8ufh0u.jpg
+platform: Steam
+price: R$ 163,34
+price_discount: -18%
+date_promotion: 2024-03-22 18:45:41
+---------------------
+title: Dragon's Dogma: Dark Arisen
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/5693b05284850a3e170014c0/banners/xbkgdqubobawos9davs4.jpg
+platform: Steam
+price: R$ 10,79
+price_discount: -85%
+date_promotion: 2024-03-22 18:45:41
+---------------------
+title: Resident Evil 4
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/635951f2bdc65c2b68ecb095/banners/etxq8vej3ebm0pz0s5rs.jpg
+platform: Steam
+price: R$ 111,99
+price_discount: -33%
+date_promotion: 2024-03-22 18:45:41
+---------------------
+title: Resident Evil 4 (2005)
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/557dbb8769702d0a9c379f00/banners/hbnjn1b5lyyiguxhz1kw.jpg
+platform: Steam
+price: R$ 9,99
+price_discount: -75%
+date_promotion: 2024-03-22 18:45:41
+---------------------
+title: Ultra Street Fighter IV
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/557dbbff69702d0a9c65c900/banners/d5kcahzxspofmkp6aqvz.jpg
+platform: Steam
+price: R$ 7,79
+price_discount: -87%
+date_promotion: 2024-03-22 18:45:41
+---------------------
+title: ULTIMATE MARVEL VS. CAPCOM 3
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/5be9dae988102416852d9765/banners/bj0cccioz6qbtqsmccmz.jpg
+platform: Steam
+price: R$ 16,49
+price_discount: -70%
+date_promotion: 2024-03-22 18:45:41
+---------------------
+title: RESIDENT EVIL 3
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/5df7db71e8d4f2071032bbd1/banners/bt35weatc5dorv6da9jf.jpg
+platform: Steam
+price: R$ 34,99
+price_discount: -75%
+date_promotion: 2024-03-22 18:45:41
+---------------------
+title: RESIDENT EVIL 2 / BIOHAZARD RE:2
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/5be42e2d2a1c6e697d85c92e/banners/hpjy3dx20zc4oyx59zjv.jpg
+platform: Steam
+price: R$ 34,97
+price_discount: -75%
+date_promotion: 2024-03-22 18:45:41
+---------------------
+title: Devil May Cry HD Collection
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/5be9eb2b88102416812d9736/banners/r0qhmkopqlgrs9vvvfrf.jpg
+platform: Steam
+price: R$ 32,96
+price_discount: -67%
+date_promotion: 2024-03-22 18:45:42
+---------------------
+title: Resident Evil HD REMASTER
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/557dbbb669702d0a9cb2af00/banners/kqxbemcslseifnuuflra.jpg
+platform: Steam
+price: R$ 16,72
+price_discount: -75%
+date_promotion: 2024-03-22 18:45:42
+---------------------
+title: Resident Evil 7 biohazard
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/583338bed277342c9800003f/banners/iefhjsebznfqgpey6qe5.jpg
+platform: Steam
+price: R$ 27,99
+price_discount: -60%
+date_promotion: 2024-03-22 18:45:42
+---------------------
+title: Resident Evil Village
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/600f36b1c883e6464c052882/banners/tdgiqqtvxmycwabbatg3.jpg
+platform: Steam
+price: R$ 55,96
+price_discount: -60%
+date_promotion: 2024-03-22 18:45:42
+---------------------
+title: DmC: Devil May Cry
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/557dbaa369702d0a9c273b00/banners/smrghz2giwtgfp3h2svc.jpg
+platform: Steam
+price: R$ 24,97
+price_discount: -75%
+date_promotion: 2024-03-22 18:45:42
+---------------------
+title: Resident Evil Revelations
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/557dbafe69702d0a9cf56500/banners/a6i0a4hgyf9cj89qzegy.jpg
+platform: Steam
+price: R$ 19,31
+price_discount: -77%
+date_promotion: 2024-03-22 18:45:42
+---------------------
+title: Dead Rising 3 - Apocalypse Edition
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/557dbc4569702d0a9c3ee100/banners/twvkgzjn4ycqakstcaaq.jpg
+platform: Steam
+price: R$ 25,49
+price_discount: -70%
+date_promotion: 2024-03-22 18:45:42
+---------------------
+title: Onimusha: Warlords
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/5c3757bd2a1c6e7ec67a6cf8/banners/gakui9jiuybvyhmknfmp.jpg
+platform: Steam
+price: R$ 15,99
+price_discount: -60%
+date_promotion: 2024-03-22 18:45:42
+---------------------
+title: Ducktales Remastered
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/557dbb1669702d0a9cfb7000/banners/d0p7abqwzwsdcnekfzcl.jpg
+platform: Steam
+price: R$ 7,49
+price_discount: -75%
+date_promotion: 2024-03-22 18:45:42
+---------------------
+title: Phoenix Wright: Ace Attorney Trilogy
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/5c93cc7e8810244e1df575b9/banners/c0kryzgyjvzl2ngoevah.jpg
+platform: Steam
+price: R$ 23,09
+price_discount: -67%
+date_promotion: 2024-03-22 18:45:42
+---------------------
+title: Mega Man X Legacy Collection 2
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/5c41fb632a1c6e348d7a6d94/banners/a1rz8ofdgptjx3ea4j1g.jpg
+platform: Steam
+price: R$ 26,76
+price_discount: -60%
+date_promotion: 2024-03-22 18:45:42
+---------------------
+title: Okami HD
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/5be9d26c8810242e552d965e/banners/jvp5jm2oiiqncy3fg9du.jpg
+platform: Steam
+price: R$ 19,99
+price_discount: -50%
+date_promotion: 2024-03-22 18:45:42
+---------------------
+title: DEADRISING 4
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/5be9cda88810242e702d9647/banners/fywhbkar0fkcdt90a3rz.jpg
+platform: Steam
+price: R$ 17,49
+price_discount: -75%
+date_promotion: 2024-03-22 18:45:42
+---------------------
+title: Remember Me
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/557dbb2469702d0a9c937600/banners/tkxkkgcwmkjvv4ihias4.jpg
+platform: Steam
+price: R$ 9,99
+price_discount: -80%
+date_promotion: 2024-03-22 18:45:42
+---------------------
+title: Mega Man 11
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/5be9d2c688102416882d972f/banners/ly7m0gtjjelrp4c1iozf.jpg
+platform: Steam
+price: R$ 32,96
+price_discount: -67%
+date_promotion: 2024-03-22 18:45:42
+---------------------
+title: Marvel vs. Capcom: Infinite
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/5be9c41288102416852d9720/banners/c7gberqs8ohuzudrzofr.jpg
+platform: Steam
+price: R$ 17,99
+price_discount: -80%
+date_promotion: 2024-03-22 18:45:42
+---------------------
+title: The Disney Afternoon Collection
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/5be9ddbd2a1c6e697d85c99d/banners/u4ho6zzh2ownruwnbazv.jpg
+platform: Steam
+price: R$ 9,99
+price_discount: -75%
+date_promotion: 2024-03-22 18:45:42
+---------------------
+title: Umbrella Corps: Deluxe Edition
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/576811ac7b323f69d50040ab/banners/tv4cd5hldfyuferg6ode.jpg
+platform: Steam
+price: R$ 13,74
+price_discount: -75%
+date_promotion: 2024-03-22 18:45:42
+---------------------
+title: Dungeons & Dragons: Chronicles of Mystara
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/557dba8469702d0a9c862d00/banners/qvry8o4nd6umnweyh2vr.jpg
+platform: Steam
+price: R$ 8,24
+price_discount: -67%
+date_promotion: 2024-03-22 18:45:42
+---------------------
+title: Ghosts 'n Goblins Resurrection
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/60a57391a3f8b1728736f450/banners/guoluqwvkvzvvxt15zl8.jpg
+platform: Steam
+price: R$ 29,69
+price_discount: -67%
+date_promotion: 2024-03-22 18:45:42
+---------------------
+title: Umbrella Corps
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/5768116cf372807ae60057a7/banners/z9ulrc7scyellcuftpmr.jpg
+platform: Steam
+price: R$ 9,99
+price_discount: -75%
+date_promotion: 2024-03-22 18:45:42
+---------------------
+title: Dead Rising 2: Off The Record
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/557dbae469702d0a9cd75900/banners/ixxqlty9a9xampsfufkj.jpg
+platform: Steam
+price: R$ 11,99
+price_discount: -70%
+date_promotion: 2024-03-22 18:45:42
+---------------------
+title: Dead Rising 2
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/557dbad469702d0a9cf35100/banners/agd2ag9dfsswuktzzfdy.jpg
+platform: Steam
+price: R$ 10,49
+price_discount: -70%
+date_promotion: 2024-03-22 18:45:42
+---------------------
+title: The Great Ace Attorney Chronicles
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/60a58546c883e61f580c7b26/banners/udortglhc6ex0wltsixc.jpg
+platform: Steam
+price: R$ 47,99
+price_discount: -60%
+date_promotion: 2024-03-22 18:45:42
+---------------------
+title: Bionic Commando Rearmed
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/5be9be202a1c6e697885c995/banners/siq26v1ypsricwubfuhk.jpg
+platform: Steam
+price: R$ 5,43
+price_discount: -68%
+date_promotion: 2024-03-22 18:45:42
+---------------------
+title: Monster Hunter Stories 2: Wings of Ruin
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/60a5790ea3f8b16f3a36f452/banners/yvdp0iyme6jjvgv2mcj6.jpg
+platform: Steam
+price: R$ 126,75
+price_discount: -25%
+date_promotion: 2024-03-22 18:45:42
+---------------------
+title: Resident Evil Village - Winters' Expansion
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/62fe71a807fe47271b8291ff/banners/ofcduggy3xs0kh5b8uen.jpg
+platform: Steam
+price: R$ 33,45
+price_discount: -50%
+date_promotion: 2024-03-22 18:45:42
+---------------------
+title: Monster Hunter World: Iceborne - Deluxe Edition
+producer: capcom
+image: https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/5db1e40de8d4f2277489df0e/banners/w9xlhm3orlg2dggyyex7.jpg
+platform: Steam
+price: R$ 69,52
+price_discount: -60%
+date_promotion: 2024-03-22 18:45:42
+---------------------

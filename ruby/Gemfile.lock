@@ -1,0 +1,33 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    date (3.3.4)
+    json (2.7.1)
+    nkf (0.2.0)
+    nokogiri (1.16.3-arm64-darwin)
+      racc (~> 1.4)
+    open-uri (0.4.1)
+      stringio
+      time
+      uri
+    racc (1.7.3)
+    rubyzip (2.3.2)
+    stringio (3.1.0)
+    time (0.3.0)
+      date
+    uri (0.13.0)
+    write_xlsx (1.11.2)
+      nkf
+      rubyzip (>= 1.0.0)
+
+PLATFORMS
+  arm64-darwin-22
+
+DEPENDENCIES
+  json
+  nokogiri
+  open-uri
+  write_xlsx
+
+BUNDLED WITH
+   2.3.7
